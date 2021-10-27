@@ -1,7 +1,6 @@
 baseURL = 'https://hallclosetcrafts.com/'
 languageCode = 'en-us'
 title = 'Hall Closet Crafts'
-
 theme = "LoveIt"
 
 
